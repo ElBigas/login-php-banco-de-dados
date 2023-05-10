@@ -21,9 +21,9 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-light bg-ligth">
+    <nav class="navbar navbar-light bg-dark text-white">
         <div class="container-fluid">
-            <a href="" class="navbar-brand">Sistema X</a>
+            <a href="" class="navbar-brand text-white">Sistema X</a>
             
             <?php 
                 print "Olá, " .$_SESSION["nome"];
